@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544977626 source:e:\cproject\ignb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1560563555 source:d:\cproject\ignb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
